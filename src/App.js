@@ -5,7 +5,8 @@ import { useState } from "react";
 const stateDB = {
   Karnataka: [
     { name: "Udupi", rating: "4/5" },
-    { name: "Shimoga", rating: "3.5/5" }
+    { name: "Shimoga", rating: "3.5/5" },
+    { name: "Gokarna", rating: "4.5/5" }
   ],
 
   TamilNadu: [
@@ -16,6 +17,10 @@ const stateDB = {
     {
       name: "Ooty",
       rating: "4.5/5"
+    },
+    {
+      name: "Chennai",
+      rating: "5/5"
     }
   ],
   Maharastra: [
@@ -26,6 +31,10 @@ const stateDB = {
     {
       name: "khandala",
       rating: "5/5"
+    },
+    {
+      name: "Mumbai",
+      rating: "4.5/5"
     }
   ]
 };
