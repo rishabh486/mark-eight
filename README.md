@@ -1,6 +1,8 @@
 # Problem Statement
-* Take user's complete birthday
-* And his/her lucky number.
-* Now, find out if the sum of digits of birthday is divisible by the lucky number.
-* Show the result to the user.
-* Here's the link to the actual problem statement.
+* List genres of something i'm interested in:
+
+
+
+* Travel
+
+* when user clicks on genre then show a list of items with your ratings for that genre.
